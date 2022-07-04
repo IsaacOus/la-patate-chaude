@@ -77,7 +77,7 @@ La partie se déroule ainsi:
 
 En fin de partie, le ou les vainqueurs sont identifiés. Il existe deux manières de *scorer*:
 
-* avoir le plus de plus de points
+* clavoir le plus de plus de points
 * avoir résolu le plus de challenges
 
 ## Les challenges
